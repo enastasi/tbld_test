@@ -3,6 +3,7 @@ int main
 	int a;
 	int b;
 	int c;
+	int d;
 	c = sum (a,b);
 	d = sum( c,a);
 }
