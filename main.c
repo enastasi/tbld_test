@@ -12,3 +12,9 @@ int sum ( x , y )
 {
 	return (x + y);
 }
+
+int prova (void)
+{
+	int k = 0;
+	k++;
+}
