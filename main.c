@@ -8,6 +8,7 @@ int main
 	c = sum (a,b);
 	d = sum( c,a);
 	e = sum( d , a );
+	printf ("la somma di d e a è: %d \n",e);
 }
 
 int sum ( x , y )
