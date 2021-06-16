@@ -9,6 +9,7 @@ int main
 	d = sum( c,a);
 	e = sum( d , a );
 	printf ("la somma di d e a è: %d \n",e);
+	printf ("la somma di d e a è: %d \n",e)
 }
 
 int sum ( x , y )
